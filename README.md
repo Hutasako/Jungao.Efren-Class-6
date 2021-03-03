@@ -15,3 +15,4 @@ Questions
     A: git diff abc123
 
     Q. Assuming that you are currently within a Git repository that includes multiple commits, write the command (or commands) that will display the IDs and commit messages for the 3 most recent commits.
+    A: git log -n 3
