@@ -9,7 +9,7 @@ Questions
     	Commit:			git commit -m "2nd commit"
 
     Q. Assuming that you are currently within a Git repository that contains a file named 'README.md', write the command (or commands) that will display any uncommitted changes made to this file.
-    A: git diff
+    A: git diff 
 
     Q. Assuming that you are currently within a Git repository that includes several commits, write the command (or commands) that will display the changes from the commit with the ID of abc123.
     A: 
