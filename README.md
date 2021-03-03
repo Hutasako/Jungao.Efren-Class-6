@@ -4,7 +4,9 @@ Questions
     A: git status
 
     Q. Assuming that you are currently within a Git repository, write the command (or commands) that will create a new file named 'hello-world.txt' then stage and commit it.
-    A:  
+    A:  Make the file:  > file-name.txt
+    	Stage: 			git add file-name.txt
+    	Commit:			git commit -m "2nd commit"
 
     Q. Assuming that you are currently within a Git repository that contains a file named 'README.md', write the command (or commands) that will display any uncommitted changes made to this file.
     A: git diff
